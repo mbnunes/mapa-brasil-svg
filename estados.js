@@ -66,6 +66,7 @@ function getCandidatos(cidade){
                 colNumPartido.innerHTML = val["numpartido"];
                 linkRedeSocial.href = val["redesocial"];
             
+                rowTr.appendChild(rowCount);
                 rowTr.appendChild(colEstado);
                 rowTr.appendChild(colCidade);
                 rowTr.appendChild(colCandidato);
