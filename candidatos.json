@@ -1,0 +1,335 @@
+[
+    {
+        "id_estado": "riodejaneiro",
+        "estado": "Rio de Janeiro",
+        "cidade": "Rio de Janeiro",
+        "candidato": "Luis China",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/LuisChinaRJ",
+        "numpartido": 33038
+    },
+    {
+        "id_estado": "riodejaneiro",
+        "estado": "Rio de Janeiro",
+        "cidade": "Angra dos Reis",
+        "candidato": "Edilson Silva",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/EdilsonSilvaAngra",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "riodejaneiro",
+        "estado": "Rio de Janeiro",
+        "cidade": "Maricá",
+        "candidato": "Mirian Miguel",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/mirianmiguel8/",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "minasgerais",
+        "estado": "Minas Gerais",
+        "cidade": "Belo Horizonte",
+        "candidato": "Bruno Engler",
+        "vaga": "Prefeito",
+        "redesocial": "https://www.facebook.com/brunoenglerdm",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "minasgerais",
+        "estado": "Minas Gerais",
+        "cidade": "Contagem",
+        "candidato": "Wellington Silveira",
+        "vaga": "Prefeito",
+        "redesocial": "https://www.facebook.com/euwellingtonsilveira",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "minasgerais",
+        "estado": "Minas Gerais",
+        "cidade": "Machado",
+        "candidato": "Adriana Lemos",
+        "vaga": "Prefeito",
+        "redesocial": "#",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "espiritosanto",
+        "estado": "Espírito Santo",
+        "cidade": "Vitória",
+        "candidato": "Agente Federal Gilvan",
+        "vaga": "Vereador",
+        "redesocial": "#",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "espiritosanto",
+        "estado": "Espírito Santo",
+        "cidade": "Inconha",
+        "candidato": "Abel Fortuna",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/Abel.fortunaa/",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "matogrosso",
+        "estado": "Mato Grosso",
+        "cidade": "Cuiabá",
+        "candidato": "Rafael Yonekubo",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/rafael.yonekubo",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "matogrosso",
+        "estado": "Mato Grosso",
+        "cidade": "Tangará da Serra",
+        "candidato": "Marcos Figueiró",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/marcos.figueiro1",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "matogrosso",
+        "estado": "Mato Grosso",
+        "cidade": "Várzea Grande",
+        "candidato": "Willian Souza",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/profile.php?id=100002602877821",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "São Paulo",
+        "candidato": "Edson Salomão",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/edsonsalomao",
+        "numpartido": 28321
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "Araraquara",
+        "candidato": "Rodrigo Riobeiro",
+        "vaga": "Prefeito",
+        "redesocial": "https://www.facebook.com/rodrigoribeiroaqa",
+        "numpartido": 28
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "Barueri",
+        "candidato": "Diego Tozzato",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/diegoftozzato",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "Bauru",
+        "candidato": "Thiago Cortez",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/thiago.cortez.35",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "Botucatu",
+        "candidato": "Gabriela Peres",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/gabrielaperesmc",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "Bragança Paulista",
+        "candidato": "Ismael Brasilino",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/brasilinobp",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "Campinas",
+        "candidato": "Alexandre Barbosa",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/AlexandreBarbosaMC/",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "Campo Limpo Paulista",
+        "candidato": "Leandro Milsoni",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/leandromilsonimc",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "Guarulhos",
+        "candidato": "Fernando Leles",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/FERNANDOLELESMC",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "Jacareí",
+        "candidato": "Alexandre Rosa",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/alexandrerosaconservador",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "Jundiaí",
+        "candidato": "Madson Henrique",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/MadsonHenriqueJundiai",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "Limeira",
+        "candidato": "Deiver Barretta",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/deiverbg",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "Mirasol",
+        "candidato": "Sargento Freitas",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/josecarlos.freitas.1293",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "Mongaguá",
+        "candidato": "Hyuri Borges",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/hyuriborges1",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "Nova Europa",
+        "candidato": "Pablo Navarro",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/profile.php?id=100026325107501",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "Praia Grande",
+        "candidato": "Marcel Farias",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/marcelfariaspg",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "Rio das Pedras",
+        "candidato": "Leandro Barbosa",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/leandrobarbosa.leh",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "Ribeirão Preto",
+        "candidato": "Maicon Tropiano",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/maicontropiano",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "Santos",
+        "candidato": "Herbert Passos",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/hpassosneto",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "São José do Rio Preto",
+        "candidato": "Josimar Peres",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/josimar.peres.902",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "São Roque",
+        "candidato": "Felipe Duarte",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/Felipe.duarte2020/",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "São Vicente",
+        "candidato": "Greg Jorge",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/gregjorgesv",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "Sorocaba",
+        "candidato": "Dylan Dantas ",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/DylanRobertoVianaDantas",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "Sumaré",
+        "candidato": "Amanda Coimbra",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/amandacoimbrasumare",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "Taubaté",
+        "candidato": "Alberto Barreto",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/AlbertoBarretomc",
+        "numpartido": "-"
+    },
+    {
+        "id_estado": "saopaulo",
+        "estado": "São Paulo",
+        "cidade": "Taubaté",
+        "candidato": "Tenente Eden",
+        "vaga": "Vereador",
+        "redesocial": "https://www.facebook.com/tenenteeden",
+        "numpartido": "-"
+    }
+]
